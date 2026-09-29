@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.keras
+*.h5
+logs/
+dataset/time_series_data_human_activities.csv
